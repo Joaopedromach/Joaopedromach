@@ -13,9 +13,6 @@
 🎯 "O sucesso é a soma de pequenos esforços repetidos dia após dia."->
 🤍 Love JAVA 
 </h5>
-	
-
-<a href=#><img src="contributions.svg"></a>
 
 <p align="center"> 
   
