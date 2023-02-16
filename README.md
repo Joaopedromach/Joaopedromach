@@ -26,16 +26,11 @@
 
 ---
 
- <div style="display: inline_block" align="center">
-  <p style="text-align: center;">
+
   
 ### Stacks
 
-<!-- ![VueJS Badge](https://img.shields.io/badge/Vue.js-35495e?style=for-the-badge&logo=vue.js&logoColor=42b883)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) -->
-<!-- ![Bootstrap](https://img.shields.io/badge/Bootstrap-%2320232a.svg?style=for-the-badge&logo=bootstrap&logoColor=%424242) -->
-<!-- ![Express Badge](https://img.shields.io/badge/-Express.js-green?style=for-the-badge&logo=Express&logoColor=black) -->
-![MongoDB Badge](https://img.shields.io/badge/MongoDB-0?style=for-the-badge&logo=MongoDB&logoColor=white)
+
 ![Node Badge](https://img.shields.io/badge/--339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![JavaScript Badge](https://img.shields.io/badge/-Mysql-FCC624?style=for-the-badge&logo=MySql&logoColor=323330)
 ![HTML Badge](https://img.shields.io/badge/-SpringBoot-E34F26?style=for-the-badge&logo=SpringBoot5&logoColor=white)
