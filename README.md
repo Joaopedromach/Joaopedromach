@@ -33,3 +33,11 @@
 ![SpringBoot Badge](https://img.shields.io/badge/-SpringBoot-03d19d?style=for-the-badge&logo=SpringBoot5&logoColor=green)
 ![Java Badge](https://img.shields.io/badge/-Java-1572B6?style=for-the-badge&logo=Java3&logoColor=white)
 ![Git Badge](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=black)
+
+## ⚙️ &nbsp;GitHub Analytics
+
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=maykbrito&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maykbrito&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
+</p>
+
