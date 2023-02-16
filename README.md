@@ -2,16 +2,15 @@
  
   <img src="https://profile-counter.glitch.me/%7Bjvrl18%7D/count.svg" />
 </p>
-<!-- Took from https://github.com/insolitum/insolitum](https://github.com/Joaopedromach) -->
 	
 <div align="center">
 	
 <div align="center" width="fit-content">
 	
-![Welcome message](https://readme-typing-svg.herokuapp.com?color=e6dc2e&lines=Hi,+i'm+João+Machado+developer+Java.)](https://git.io/typing-svg)	
+![Welcome message](https://readme-typing-svg.herokuapp.com?color=e6dc2e&lines=Hi,+i'm+João+Machado+developer+Java.)]	
 
 
-🎯 Current working with Discord API -> DiscordJS bot development<br>
+🎯 "O sucesso é a soma de pequenos esforços repetidos dia após dia."->
 🤍 Love JAVA 
 </h5>
 	
