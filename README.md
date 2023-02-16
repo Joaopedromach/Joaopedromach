@@ -10,21 +10,16 @@
 	
 ![Welcome message](https://readme-typing-svg.herokuapp.com?color=e6dc2e&lines=Hi,+i'm+João+Machado+developer+Java.)](https://git.io/typing-svg)	
 
-<a href="https://discord.com/users/429771320964939787">
-<img src="https://lanyard.cnrad.dev/api/429771320964939787" alt="Discord"/>
-</div>
 
-<h5 align="center" width="fit-content">
 🎯 Current working with Discord API -> DiscordJS bot development<br>
 🤍 Love JAVA 
 </h5>
-	![](https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif)
+	
 
 <a href=#><img src="contributions.svg"></a>
 
 <p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/insolitum/count.svg" />
+  
 </p>
 
 	
