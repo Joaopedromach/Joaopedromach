@@ -4,7 +4,7 @@ Here are some ideas to get you started:
 
 - 🔭 Eu trabalho com Back end 
 - 🌱 Estudando Java
-- 👯 Meu e-mail pessoal joaomachadojava@gmail.com
+- 👯 Meu e-mail pessoal jp.machado1@hotmail.com
 
 [![Linkedin Badge](https://img.shields.io/badge/-Joao%20Machado-Red?style=for-the-badge&labelColor=Red&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/joão-pedro-machado-054385184/)](https://www.linkedin.com/in/joão-pedro-machado-054385184/)
 [![Instagram Badge](https://img.shields.io/badge/-joaopedro_mach-yellow?style=for-the-badge&labelColor=yellow&logo=instagram&logoColor=white&link=https://twitter.com/dieegosf)](https://www.instagram.com/joaopedro.mach/)
