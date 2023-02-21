@@ -25,7 +25,7 @@
 
 
   
-### Stacks
+### Stackss
 
 
 ![Docker Badge](https://img.shields.io/badge/-Docker-24c6fc?style=for-the-badge&logo=Docker&logoColor=blue)
