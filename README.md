@@ -36,8 +36,8 @@
 
 <div align="center">
   <a href="https://github.com/Joaopedromach">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JVRL18&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JVRL18&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=joaopedromach&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedromach&layout=compact&langs_count=7&theme=dark"/>
  </a>
 </div>
 
