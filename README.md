@@ -1,6 +1,6 @@
 <p align="center"> 
  
-  <img src="https://profile-counter.glitch.me/Joaopedromach/count.svg" />
+  
 </p>
 	
 <div align="center">
