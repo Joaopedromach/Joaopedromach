@@ -7,7 +7,7 @@
 	
 <div align="center" width="fit-content">
 	
-![Welcome message](https://readme-typing-svg.herokuapp.com?color=e6dc2e&lines=Hi,+i'm+João+Machado+developer+Java.)]	
+
 
 
 🎯 "O sucesso é a soma de pequenos esforços repetidos dia após dia."->
