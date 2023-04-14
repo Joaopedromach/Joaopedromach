@@ -10,7 +10,7 @@
 
 
 
-🎯 "O sucesso é a soma de pequenos esforços repetidos dia após dia."->
+🎯 "O sucesso é a soma de pequenos esforços repetidos dia após dia ."->
 🤍 Love JAVA 
 </h5>
 
